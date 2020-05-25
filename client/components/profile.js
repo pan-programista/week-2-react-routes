@@ -5,7 +5,7 @@ const Profile = () => {
   const { username } = useParams()
   return (
     <div>
-      <div id="title">Main</div>
+      <div id="title">Profile</div>
       <br />
       <div id="username">{username}</div>
       <br />      
